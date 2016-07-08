@@ -3,9 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Leftover emacs crap
+*~
+
 # C extensions
 *.so
 
+# Python ide
 .idea
 .idea/
 
